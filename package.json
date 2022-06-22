@@ -2,10 +2,10 @@
   "name": "Base-Md",
   "description": "WhatsApp Bot Multi Device",
   "version": "1.0.1",
-  "main": "./main/connect.js",
+  "main": "connect.js",
   "type": "commonjs",
   "scripts": {
-  "start": "node main/connect.js"
+  "start": "connect.js"
 },
   "keywords": [
   "termux",
